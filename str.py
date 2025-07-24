@@ -1,6 +1,6 @@
 import streamlit as st
-st.image("Mind_cloud.jpg")
 st.header("Mind Cloud Basic Training Roadmap - 2025")
+st.image("Mind_cloud.jpg")
 st.video("viddd.mp4",autoplay=True)
 tab1 , tab2 , tab3 , tab4 = st.tabs(["Phase 1 :  Software","Phase 2 :  Hardware and Electronics","Phase 3 :  Microcontroller","Phase 4 :  AI and Computer vision"])
 with tab1 :
